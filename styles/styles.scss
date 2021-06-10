@@ -1,0 +1,9 @@
+.container > div:first-child {
+    background-color: coral;
+    height: 400px;
+}
+
+.container > div:last-child {
+    background-color: green;
+    height: 1000px;
+}
