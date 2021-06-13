@@ -1,5 +1,7 @@
+@import "./variables";
+
 .container > div:first-child {
-    background-color: coral;
+    background-color: $main-color;
     height: 400px;
 }
 
